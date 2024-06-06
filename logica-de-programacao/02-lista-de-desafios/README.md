@@ -7,7 +7,7 @@ Desafios:
 
 - (02) Verifique se um número digitado pelo usuário é positivo ou negativo. Mostre um alerta informando;
 
-- Crie um sistema de pontuação para um jogo. Se a pontuação for maior ou igual a 100, mostre "Parabéns, você venceu!". Caso contrário, mostre "Tente novamente para ganhar.";
+- (03) Crie um sistema de pontuação para um jogo. Se a pontuação for maior ou igual a 100, mostre "Parabéns, você venceu!". Caso contrário, mostre "Tente novamente para ganhar.";
 
 - (04) Crie uma mensagem que informa o usuário sobre o saldo da conta, usando uma template string para incluir o valor do saldo;
 
