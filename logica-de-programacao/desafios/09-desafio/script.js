@@ -1,0 +1,1 @@
+let idadeDoUsuario = prompt("Por favor, informe sua idade para continuar!");
