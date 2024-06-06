@@ -7,4 +7,4 @@ while (contador > 0) {
     contador -= 1;
 }
 
-console.log("Fim!")
+console.log("Fim!");
