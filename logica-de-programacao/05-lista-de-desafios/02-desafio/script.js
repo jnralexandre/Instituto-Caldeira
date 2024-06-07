@@ -1,3 +1,3 @@
 function chamarConsole() {
-    console.log("O botão foi clicado!")
+    console.log("O botão foi clicado!");
 }
