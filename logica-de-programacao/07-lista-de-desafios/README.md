@@ -13,4 +13,4 @@ Desafios:
 
 - (05) Crie uma função que mostre na tela a área e o perímetro de uma sala circular, utilizando seu raio que será fornecido como parâmetro. Considere Pi = 3,14;
 
-- (05) Crie uma função que mostre na tela a tabuada de um número dado como parâmetro;
+- (06) Crie uma função que mostre na tela a tabuada de um número dado como parâmetro;
