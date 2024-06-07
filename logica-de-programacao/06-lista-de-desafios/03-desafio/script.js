@@ -1,7 +1,5 @@
 multiplicar(9);
 
-let numero;
-
 function multiplicar(valor) {
     let resultado = (valor * 2);
 
